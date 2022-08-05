@@ -1,3 +1,9 @@
+physbo (1.0.1-1) unstable; urgency=low
+
+  * New upstream version 1.0.1.
+
+ -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Thu, 20 May 2021 16:06:15 +0900
+
 physbo (1.0.0-1) UNRELEASED; urgency=low
 
   * Initial release.
